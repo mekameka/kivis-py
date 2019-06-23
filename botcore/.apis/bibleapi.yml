@@ -1,0 +1,132 @@
+url: https://bible-api.com
+bible:
+    old:
+        genesis:
+            no_chapters: 50
+        exodus:
+            no_chapters: 40
+        leviticus:
+            no_chapters: 27
+        numbers:
+            no_chapters: 36
+        deuteronomy:
+            no_chapters: 34
+        joshua:
+            no_chapters: 24
+        1samnuel: 
+            no_chapters: 31
+        2samnuel:
+            no_chapters: 24
+        1kings:
+            no_chapters: 22
+        2kings:
+            no_chapters: 25
+        1chronicles:
+            no_chapters: 29
+        2chronicles:
+            no_chapters: 36
+        erza:
+            no_chapters: 10
+        nehemiah:
+            no_chapters: 13
+        esther:
+            no_chapters: 10
+        job:
+            no_chapters: 42
+        psalms:
+            no_chapters: 150
+        proverbs:
+            no_chapters: 31
+        ecclesiastes:
+            no_chapters: 12
+        songofsolomon:
+            no_chapters: 8
+        isaiah:
+            no_chapters: 66
+        jeremiah:
+            no_chapters: 52
+        lamentations:
+            no_chapters: 5
+        ezekiel:
+            no_chapters: 48 
+        daniel:
+            no_chapters: 12
+        hosea:
+            no_chapters: 14
+        joel:
+            no_chapters: 3
+        amos:
+            no_chapters: 9
+        obadiah:
+            no_chapters: 1
+        jonah:
+            no_chapters: 4
+        micah:
+            no_chapters: 7
+        nahum:
+            no_chapters: 3
+        habakkuk:
+            no_chapters: 3
+        zephaniah:
+            no_chapters: 3
+        haggai:
+            no_chapters: 2
+        zechariah:
+            no_chapters: 14
+        malachi:
+            no_chapters: 4
+    new:
+        matthew:
+            no_chapters: 28
+        mark:
+            no_chapters: 16
+        luke:
+            no_chapters: 24
+        john:
+            no_chapters: 21
+        acts:
+            no_chapters: 28
+        romans:
+            no_chapters: 16
+        1corinthians:
+            no_chapters: 16
+        2corinthians:
+            no_chapters: 13
+        galatians:
+            no_chapters: 6
+        ephesians:
+            no_chapters: 6
+        philippians:
+            no_chapters: 4
+        colossians:
+            no_chapters: 4
+        1thessalonian:
+            no_chapters: 5
+        2thessalonian:
+            no_chapters: 3
+        1timothy:
+            no_chapters: 6
+        2timothy:
+            no_chapters: 4
+        titus:
+            no_chapters: 3
+        philemon:
+            no_chapters: 1
+        hebrews:
+            no_chapters: 13
+        james:
+            no_chapters: 5
+        1peter:
+            no_chapters: 5
+        2peter:
+            no_chapters: 3
+        1john:
+            no_chapters: 5
+        2john:
+            no_chapters: 1
+        3john:
+            no_chapters: 1
+        jude:
+            no_chapters: 1
+        revelation:
+            no_chapters: 22

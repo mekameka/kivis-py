@@ -1,0 +1,1046 @@
+url: http://worldtimeapi.org/api/timezone
+mapping:
+  abidjan:
+    city: Abidjan
+    region: Africa
+  accra:
+    city: Accra
+    region: Africa
+  adak:
+    city: Adak
+    region: America
+  adelaide:
+    city: Adelaide
+    region: Australia
+  algiers:
+    city: Algiers
+    region: Africa
+  almaty:
+    city: Almaty
+    region: Asia
+  amman:
+    city: Amman
+    region: Asia
+  amsterdam:
+    city: Amsterdam
+    region: Europe
+  anadyr:
+    city: Anadyr
+    region: Asia
+  anchorage:
+    city: Anchorage
+    region: America
+  andorra:
+    city: Andorra
+    region: Europe
+  apia:
+    city: Apia
+    region: Pacific
+  aqtau:
+    city: Aqtau
+    region: Asia
+  aqtobe:
+    city: Aqtobe
+    region: Asia
+  araguaina:
+    city: Araguaina
+    region: America
+  ashgabat:
+    city: Ashgabat
+    region: Asia
+  astrakhan:
+    city: Astrakhan
+    region: Europe
+  asuncion:
+    city: Asuncion
+    region: America
+  athens:
+    city: Athens
+    region: Europe
+  atikokan:
+    city: Atikokan
+    region: America
+  atyrau:
+    city: Atyrau
+    region: Asia
+  auckland:
+    city: Auckland
+    region: Pacific
+  azores:
+    city: Azores
+    region: Atlantic
+  baghdad:
+    city: Baghdad
+    region: Asia
+  bahia:
+    city: Bahia
+    region: America
+  bahia banderas:
+    city: Bahia_Banderas
+    region: America
+  baku:
+    city: Baku
+    region: Asia
+  bangkok:
+    city: Bangkok
+    region: Asia
+  barbados:
+    city: Barbados
+    region: America
+  barnaul:
+    city: Barnaul
+    region: Asia
+  beirut:
+    city: Beirut
+    region: Asia
+  belem:
+    city: Belem
+    region: America
+  belgrade:
+    city: Belgrade
+    region: Europe
+  belize:
+    city: Belize
+    region: America
+  berlin:
+    city: Berlin
+    region: Europe
+  bermuda:
+    city: Bermuda
+    region: Atlantic
+  beulah:
+    city: Beulah
+    region: America/North_Dakota
+  bishkek:
+    city: Bishkek
+    region: Asia
+  bissau:
+    city: Bissau
+    region: Africa
+  blanc-sablon:
+    city: Blanc-Sablon
+    region: America
+  boa vista:
+    city: Boa_Vista
+    region: America
+  bogota:
+    city: Bogota
+    region: America
+  boise:
+    city: Boise
+    region: America
+  bougainville:
+    city: Bougainville
+    region: Pacific
+  brisbane:
+    city: Brisbane
+    region: Australia
+  broken hill:
+    city: Broken_Hill
+    region: Australia
+  brunei:
+    city: Brunei
+    region: Asia
+  brussels:
+    city: Brussels
+    region: Europe
+  bucharest:
+    city: Bucharest
+    region: Europe
+  budapest:
+    city: Budapest
+    region: Europe
+  buenos aires:
+    city: Buenos_Aires
+    region: America/Argentina
+  cairo:
+    city: Cairo
+    region: Africa
+  cambridge bay:
+    city: Cambridge_Bay
+    region: America
+  campo grande:
+    city: Campo_Grande
+    region: America
+  canary:
+    city: Canary
+    region: Atlantic
+  cancun:
+    city: Cancun
+    region: America
+  cape verde:
+    city: Cape_Verde
+    region: Atlantic
+  caracas:
+    city: Caracas
+    region: America
+  casablanca:
+    city: Casablanca
+    region: Africa
+  casey:
+    city: Casey
+    region: Antarctica
+  catamarca:
+    city: Catamarca
+    region: America/Argentina
+  cayenne:
+    city: Cayenne
+    region: America
+  center:
+    city: Center
+    region: America/North_Dakota
+  ceuta:
+    city: Ceuta
+    region: Africa
+  chagos:
+    city: Chagos
+    region: Indian
+  chatham:
+    city: Chatham
+    region: Pacific
+  chicago:
+    city: Chicago
+    region: America
+  chihuahua:
+    city: Chihuahua
+    region: America
+  chisinau:
+    city: Chisinau
+    region: Europe
+  chita:
+    city: Chita
+    region: Asia
+  choibalsan:
+    city: Choibalsan
+    region: Asia
+  christmas:
+    city: Christmas
+    region: Indian
+  chuuk:
+    city: Chuuk
+    region: Pacific
+  cocos:
+    city: Cocos
+    region: Indian
+  colombo:
+    city: Colombo
+    region: Asia
+  copenhagen:
+    city: Copenhagen
+    region: Europe
+  cordoba:
+    city: Cordoba
+    region: America/Argentina
+  costa rica:
+    city: Costa_Rica
+    region: America
+  creston:
+    city: Creston
+    region: America
+  cuiaba:
+    city: Cuiaba
+    region: America
+  curacao:
+    city: Curacao
+    region: America
+  currie:
+    city: Currie
+    region: Australia
+  damascus:
+    city: Damascus
+    region: Asia
+  danmarkshavn:
+    city: Danmarkshavn
+    region: America
+  darwin:
+    city: Darwin
+    region: Australia
+  davis:
+    city: Davis
+    region: Antarctica
+  dawson:
+    city: Dawson
+    region: America
+  dawson creek:
+    city: Dawson_Creek
+    region: America
+  denver:
+    city: Denver
+    region: America
+  detroit:
+    city: Detroit
+    region: America
+  dhaka:
+    city: Dhaka
+    region: Asia
+  dili:
+    city: Dili
+    region: Asia
+  dubai:
+    city: Dubai
+    region: Asia
+  dublin:
+    city: Dublin
+    region: Europe
+  dumontdurville:
+    city: DumontDUrville
+    region: Antarctica
+  dushanbe:
+    city: Dushanbe
+    region: Asia
+  easter:
+    city: Easter
+    region: Pacific
+  edmonton:
+    city: Edmonton
+    region: America
+  efate:
+    city: Efate
+    region: Pacific
+  eirunepe:
+    city: Eirunepe
+    region: America
+  el aaiun:
+    city: El_Aaiun
+    region: Africa
+  el salvador:
+    city: El_Salvador
+    region: America
+  enderbury:
+    city: Enderbury
+    region: Pacific
+  eucla:
+    city: Eucla
+    region: Australia
+  fakaofo:
+    city: Fakaofo
+    region: Pacific
+  famagusta:
+    city: Famagusta
+    region: Asia
+  faroe:
+    city: Faroe
+    region: Atlantic
+  fiji:
+    city: Fiji
+    region: Pacific
+  fort nelson:
+    city: Fort_Nelson
+    region: America
+  fortaleza:
+    city: Fortaleza
+    region: America
+  funafuti:
+    city: Funafuti
+    region: Pacific
+  galapagos:
+    city: Galapagos
+    region: Pacific
+  gambier:
+    city: Gambier
+    region: Pacific
+  gaza:
+    city: Gaza
+    region: Asia
+  gibraltar:
+    city: Gibraltar
+    region: Europe
+  glace bay:
+    city: Glace_Bay
+    region: America
+  godthab:
+    city: Godthab
+    region: America
+  goose bay:
+    city: Goose_Bay
+    region: America
+  grand turk:
+    city: Grand_Turk
+    region: America
+  guadalcanal:
+    city: Guadalcanal
+    region: Pacific
+  guam:
+    city: Guam
+    region: Pacific
+  guatemala:
+    city: Guatemala
+    region: America
+  guayaquil:
+    city: Guayaquil
+    region: America
+  guyana:
+    city: Guyana
+    region: America
+  halifax:
+    city: Halifax
+    region: America
+  havana:
+    city: Havana
+    region: America
+  hebron:
+    city: Hebron
+    region: Asia
+  helsinki:
+    city: Helsinki
+    region: Europe
+  hermosillo:
+    city: Hermosillo
+    region: America
+  ho chi minh:
+    city: Ho_Chi_Minh
+    region: Asia
+  hobart:
+    city: Hobart
+    region: Australia
+  hong kong:
+    city: Hong_Kong
+    region: Asia
+  honolulu:
+    city: Honolulu
+    region: Pacific
+  hovd:
+    city: Hovd
+    region: Asia
+  indianapolis:
+    city: Indianapolis
+    region: America/Indiana
+  inuvik:
+    city: Inuvik
+    region: America
+  iqaluit:
+    city: Iqaluit
+    region: America
+  irkutsk:
+    city: Irkutsk
+    region: Asia
+  istanbul:
+    city: Istanbul
+    region: Europe
+  jakarta:
+    city: Jakarta
+    region: Asia
+  jamaica:
+    city: Jamaica
+    region: America
+  jayapura:
+    city: Jayapura
+    region: Asia
+  jerusalem:
+    city: Jerusalem
+    region: Asia
+  johannesburg:
+    city: Johannesburg
+    region: Africa
+  juba:
+    city: Juba
+    region: Africa
+  jujuy:
+    city: Jujuy
+    region: America/Argentina
+  juneau:
+    city: Juneau
+    region: America
+  kabul:
+    city: Kabul
+    region: Asia
+  kaliningrad:
+    city: Kaliningrad
+    region: Europe
+  kamchatka:
+    city: Kamchatka
+    region: Asia
+  karachi:
+    city: Karachi
+    region: Asia
+  kathmandu:
+    city: Kathmandu
+    region: Asia
+  kerguelen:
+    city: Kerguelen
+    region: Indian
+  khandyga:
+    city: Khandyga
+    region: Asia
+  khartoum:
+    city: Khartoum
+    region: Africa
+  kiev:
+    city: Kiev
+    region: Europe
+  kiritimati:
+    city: Kiritimati
+    region: Pacific
+  kirov:
+    city: Kirov
+    region: Europe
+  knox:
+    city: Knox
+    region: America/Indiana
+  kolkata:
+    city: Kolkata
+    region: Asia
+  kosrae:
+    city: Kosrae
+    region: Pacific
+  krasnoyarsk:
+    city: Krasnoyarsk
+    region: Asia
+  kuala lumpur:
+    city: Kuala_Lumpur
+    region: Asia
+  kuching:
+    city: Kuching
+    region: Asia
+  kwajalein:
+    city: Kwajalein
+    region: Pacific
+  la paz:
+    city: La_Paz
+    region: America
+  la rioja:
+    city: La_Rioja
+    region: America/Argentina
+  lagos:
+    city: Lagos
+    region: Africa
+  lima:
+    city: Lima
+    region: America
+  lindeman:
+    city: Lindeman
+    region: Australia
+  lisbon:
+    city: Lisbon
+    region: Europe
+  london:
+    city: London
+    region: Europe
+  lord howe:
+    city: Lord_Howe
+    region: Australia
+  los angeles:
+    city: Los_Angeles
+    region: America
+  louisville:
+    city: Louisville
+    region: America/Kentucky
+  luxembourg:
+    city: Luxembourg
+    region: Europe
+  macau:
+    city: Macau
+    region: Asia
+  maceio:
+    city: Maceio
+    region: America
+  macquarie:
+    city: Macquarie
+    region: Antarctica
+  madeira:
+    city: Madeira
+    region: Atlantic
+  madrid:
+    city: Madrid
+    region: Europe
+  magadan:
+    city: Magadan
+    region: Asia
+  mahe:
+    city: Mahe
+    region: Indian
+  majuro:
+    city: Majuro
+    region: Pacific
+  makassar:
+    city: Makassar
+    region: Asia
+  maldives:
+    city: Maldives
+    region: Indian
+  malta:
+    city: Malta
+    region: Europe
+  managua:
+    city: Managua
+    region: America
+  manaus:
+    city: Manaus
+    region: America
+  manila:
+    city: Manila
+    region: Asia
+  maputo:
+    city: Maputo
+    region: Africa
+  marengo:
+    city: Marengo
+    region: America/Indiana
+  marquesas:
+    city: Marquesas
+    region: Pacific
+  martinique:
+    city: Martinique
+    region: America
+  matamoros:
+    city: Matamoros
+    region: America
+  mauritius:
+    city: Mauritius
+    region: Indian
+  mawson:
+    city: Mawson
+    region: Antarctica
+  mazatlan:
+    city: Mazatlan
+    region: America
+  melbourne:
+    city: Melbourne
+    region: Australia
+  mendoza:
+    city: Mendoza
+    region: America/Argentina
+  menominee:
+    city: Menominee
+    region: America
+  merida:
+    city: Merida
+    region: America
+  metlakatla:
+    city: Metlakatla
+    region: America
+  mexico city:
+    city: Mexico_City
+    region: America
+  minsk:
+    city: Minsk
+    region: Europe
+  miquelon:
+    city: Miquelon
+    region: America
+  monaco:
+    city: Monaco
+    region: Europe
+  moncton:
+    city: Moncton
+    region: America
+  monrovia:
+    city: Monrovia
+    region: Africa
+  monterrey:
+    city: Monterrey
+    region: America
+  montevideo:
+    city: Montevideo
+    region: America
+  monticello:
+    city: Monticello
+    region: America/Kentucky
+  moscow:
+    city: Moscow
+    region: Europe
+  nairobi:
+    city: Nairobi
+    region: Africa
+  nassau:
+    city: Nassau
+    region: America
+  nauru:
+    city: Nauru
+    region: Pacific
+  ndjamena:
+    city: Ndjamena
+    region: Africa
+  new salem:
+    city: New_Salem
+    region: America/North_Dakota
+  new york:
+    city: New_York
+    region: America
+  nicosia:
+    city: Nicosia
+    region: Asia
+  nipigon:
+    city: Nipigon
+    region: America
+  niue:
+    city: Niue
+    region: Pacific
+  nome:
+    city: Nome
+    region: America
+  norfolk:
+    city: Norfolk
+    region: Pacific
+  noronha:
+    city: Noronha
+    region: America
+  noumea:
+    city: Noumea
+    region: Pacific
+  novokuznetsk:
+    city: Novokuznetsk
+    region: Asia
+  novosibirsk:
+    city: Novosibirsk
+    region: Asia
+  ojinaga:
+    city: Ojinaga
+    region: America
+  omsk:
+    city: Omsk
+    region: Asia
+  oral:
+    city: Oral
+    region: Asia
+  oslo:
+    city: Oslo
+    region: Europe
+  pago pago:
+    city: Pago_Pago
+    region: Pacific
+  palau:
+    city: Palau
+    region: Pacific
+  palmer:
+    city: Palmer
+    region: Antarctica
+  panama:
+    city: Panama
+    region: America
+  pangnirtung:
+    city: Pangnirtung
+    region: America
+  paramaribo:
+    city: Paramaribo
+    region: America
+  paris:
+    city: Paris
+    region: Europe
+  perth:
+    city: Perth
+    region: Australia
+  petersburg:
+    city: Petersburg
+    region: America/Indiana
+  phoenix:
+    city: Phoenix
+    region: America
+  pitcairn:
+    city: Pitcairn
+    region: Pacific
+  pohnpei:
+    city: Pohnpei
+    region: Pacific
+  pontianak:
+    city: Pontianak
+    region: Asia
+  port-au-prince:
+    city: Port-au-Prince
+    region: America
+  port moresby:
+    city: Port_Moresby
+    region: Pacific
+  port of spain:
+    city: Port_of_Spain
+    region: America
+  porto velho:
+    city: Porto_Velho
+    region: America
+  prague:
+    city: Prague
+    region: Europe
+  puerto rico:
+    city: Puerto_Rico
+    region: America
+  punta arenas:
+    city: Punta_Arenas
+    region: America
+  pyongyang:
+    city: Pyongyang
+    region: Asia
+  qatar:
+    city: Qatar
+    region: Asia
+  qostanay:
+    city: Qostanay
+    region: Asia
+  qyzylorda:
+    city: Qyzylorda
+    region: Asia
+  rainy river:
+    city: Rainy_River
+    region: America
+  rankin inlet:
+    city: Rankin_Inlet
+    region: America
+  rarotonga:
+    city: Rarotonga
+    region: Pacific
+  recife:
+    city: Recife
+    region: America
+  regina:
+    city: Regina
+    region: America
+  resolute:
+    city: Resolute
+    region: America
+  reunion:
+    city: Reunion
+    region: Indian
+  reykjavik:
+    city: Reykjavik
+    region: Atlantic
+  riga:
+    city: Riga
+    region: Europe
+  rio branco:
+    city: Rio_Branco
+    region: America
+  rio gallegos:
+    city: Rio_Gallegos
+    region: America/Argentina
+  riyadh:
+    city: Riyadh
+    region: Asia
+  rome:
+    city: Rome
+    region: Europe
+  rothera:
+    city: Rothera
+    region: Antarctica
+  sakhalin:
+    city: Sakhalin
+    region: Asia
+  salta:
+    city: Salta
+    region: America/Argentina
+  samara:
+    city: Samara
+    region: Europe
+  samarkand:
+    city: Samarkand
+    region: Asia
+  san juan:
+    city: San_Juan
+    region: America/Argentina
+  san luis:
+    city: San_Luis
+    region: America/Argentina
+  santarem:
+    city: Santarem
+    region: America
+  santiago:
+    city: Santiago
+    region: America
+  santo domingo:
+    city: Santo_Domingo
+    region: America
+  sao paulo:
+    city: Sao_Paulo
+    region: America
+  sao tome:
+    city: Sao_Tome
+    region: Africa
+  saratov:
+    city: Saratov
+    region: Europe
+  scoresbysund:
+    city: Scoresbysund
+    region: America
+  seoul:
+    city: Seoul
+    region: Asia
+  shanghai:
+    city: Shanghai
+    region: Asia
+  simferopol:
+    city: Simferopol
+    region: Europe
+  singapore:
+    city: Singapore
+    region: Asia
+  sitka:
+    city: Sitka
+    region: America
+  sofia:
+    city: Sofia
+    region: Europe
+  south georgia:
+    city: South_Georgia
+    region: Atlantic
+  srednekolymsk:
+    city: Srednekolymsk
+    region: Asia
+  st johns:
+    city: St_Johns
+    region: America
+  stanley:
+    city: Stanley
+    region: Atlantic
+  stockholm:
+    city: Stockholm
+    region: Europe
+  swift current:
+    city: Swift_Current
+    region: America
+  sydney:
+    city: Sydney
+    region: Australia
+  syowa:
+    city: Syowa
+    region: Antarctica
+  tahiti:
+    city: Tahiti
+    region: Pacific
+  taipei:
+    city: Taipei
+    region: Asia
+  tallinn:
+    city: Tallinn
+    region: Europe
+  tarawa:
+    city: Tarawa
+    region: Pacific
+  tashkent:
+    city: Tashkent
+    region: Asia
+  tbilisi:
+    city: Tbilisi
+    region: Asia
+  tegucigalpa:
+    city: Tegucigalpa
+    region: America
+  tehran:
+    city: Tehran
+    region: Asia
+  tell city:
+    city: Tell_City
+    region: America/Indiana
+  thimphu:
+    city: Thimphu
+    region: Asia
+  thule:
+    city: Thule
+    region: America
+  thunder bay:
+    city: Thunder_Bay
+    region: America
+  tijuana:
+    city: Tijuana
+    region: America
+  tirane:
+    city: Tirane
+    region: Europe
+  tokyo:
+    city: Tokyo
+    region: Asia
+  tomsk:
+    city: Tomsk
+    region: Asia
+  tongatapu:
+    city: Tongatapu
+    region: Pacific
+  toronto:
+    city: Toronto
+    region: America
+  tripoli:
+    city: Tripoli
+    region: Africa
+  troll:
+    city: Troll
+    region: Antarctica
+  tucuman:
+    city: Tucuman
+    region: America/Argentina
+  tunis:
+    city: Tunis
+    region: Africa
+  ulaanbaatar:
+    city: Ulaanbaatar
+    region: Asia
+  ulyanovsk:
+    city: Ulyanovsk
+    region: Europe
+  urumqi:
+    city: Urumqi
+    region: Asia
+  ushuaia:
+    city: Ushuaia
+    region: America/Argentina
+  ust-nera:
+    city: Ust-Nera
+    region: Asia
+  uzhgorod:
+    city: Uzhgorod
+    region: Europe
+  vancouver:
+    city: Vancouver
+    region: America
+  vevay:
+    city: Vevay
+    region: America/Indiana
+  vienna:
+    city: Vienna
+    region: Europe
+  vilnius:
+    city: Vilnius
+    region: Europe
+  vincennes:
+    city: Vincennes
+    region: America/Indiana
+  vladivostok:
+    city: Vladivostok
+    region: Asia
+  volgograd:
+    city: Volgograd
+    region: Europe
+  vostok:
+    city: Vostok
+    region: Antarctica
+  wake:
+    city: Wake
+    region: Pacific
+  wallis:
+    city: Wallis
+    region: Pacific
+  warsaw:
+    city: Warsaw
+    region: Europe
+  whitehorse:
+    city: Whitehorse
+    region: America
+  winamac:
+    city: Winamac
+    region: America/Indiana
+  windhoek:
+    city: Windhoek
+    region: Africa
+  winnipeg:
+    city: Winnipeg
+    region: America
+  yakutat:
+    city: Yakutat
+    region: America
+  yakutsk:
+    city: Yakutsk
+    region: Asia
+  yangon:
+    city: Yangon
+    region: Asia
+  yekaterinburg:
+    city: Yekaterinburg
+    region: Asia
+  yellowknife:
+    city: Yellowknife
+    region: America
+  yerevan:
+    city: Yerevan
+    region: Asia
+  zaporozhye:
+    city: Zaporozhye
+    region: Europe
+  zurich:
+    city: Zurich
+    region: Europe
