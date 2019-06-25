@@ -2,7 +2,7 @@
   <category>
     <pattern>LOAD AIML</pattern>
     <template>
-      <learn>aiml/botdata/*.aiml</learn>
+      <learn>aiml_data/botdata/*.aiml</learn>
     </template>
   </category>
 </aiml>

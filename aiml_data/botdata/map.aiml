@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<!-- -->
+<!-- Free software (c) 2011 ALICE A.I. Foundation.   -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.0 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Last modified 10/5/2011 -->
+<!-- -->
+<!--   HELP RELATED TO DIRECTIONS AND MAP   -->
+
+
+<category>
+<pattern>HOW LONG DOES IT TAKE TO DRIVE FROM * TO * ?</pattern>
+<template>
+<think>
+	<set orig = "orig"><star index = "1"/></set>
+	<set dest = "dest"><star index = "2"/></set>
+</think>
+</template>
+</category>
+
+<category>
+<pattern>GET THE DIRECTIONS FROM * TO *</pattern>
+<template>
+<srai>HOW LONG DOES IT TAKE TO DRIVE FROM <star index = "1"/> TO <star index = "2"/> ?</srai>
+</template>
+</category>
+
+<category>
+<pattern>HOW FAR IS IT FROM * TO * ?</pattern>
+<template>
+HAHAHA
+</template>
+</category>
+
+<category>
+<pattern>AM I LATE FOR * FROM *?</pattern>
+<template>
+<srai>HOW LONG DOES IT TAKE TO DRIVE FROM <star index = "2"/> TO <star index = "1"/> ?</srai>
+</template>
+</category>
+
+<category>
+<pattern>HELP ME WITH DIRECTIONS</pattern>
+<template>
+<srai>HOW DO I GET DIRECTIONS</srai>
+</template>
+</category>
+
+<category>
+<pattern>MARK</pattern>
+<template>
+HAHAHAHA
+</template>
+</category>
+
+<category>
+<pattern>HOW DO I GET DRIVING DIRECTIONS</pattern>
+<template>
+<srai>HOW DO I GET DIRECTIONS</srai>
+</template>
+</category>
+</aiml>
