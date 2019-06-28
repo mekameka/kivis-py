@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+  <category>
+    <pattern>hi</pattern>
+    <template>
+      <random> 
+        <li>Hi!</li>
+        <li>Hello!</li>
+        <li>Hey!</li>
+        <li>Yo!</li>
+        <li>Sup!</li>
+        <li>Aloha!</li>
+        <li>Hi there!</li>
+        <li>Hey there!</li>
+        <li>Hi, how's it going?</li>
+      </random>
+    </template>
+  </category>
+  <category>
+    <pattern>hi *</pattern>
+    <template><srai>hi</srai></template>
+  </category>
+  <category>
+    <pattern>hello</pattern>
+    <template><srai>hi</srai></template>
+  </category>
+  <category>
+    <pattern>hello *</pattern>
+    <template><srai>hi</srai></template>
+  </category>
+  <category>
+    <pattern>hey *</pattern>
+    <template><srai>hi</srai></template>
+  </category>
+  <category>
+    <pattern>hey</pattern>
+    <template><srai>hi</srai></template>
+  </category>
+  <category>
+    <pattern>yo</pattern>
+    <template><srai>hi</srai></template>
+  </category>
+</aiml>
